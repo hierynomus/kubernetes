@@ -30,7 +30,7 @@ require (
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/inf.v0 v0.9.1
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 	k8s.io/klog/v2 v2.20.0
 	k8s.io/kube-openapi v0.0.0-20210817084001-7fbd8d59e5b8
 	k8s.io/utils v0.0.0-20210930125809-cb0fa318a74b
